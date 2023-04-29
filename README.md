@@ -2,7 +2,7 @@
 
 Projeto frontend React consumindo a API do TMDB, projeto concluído conforme a videoaula do canal do youtube do Bonieky Lacerda.
 
-## 👀 Deploy: <a href="https://netflix-clone-react-red-three.vercel.app" target="_blank" rel="noopener noreferrer">Netflix Clone</a>
+## 👀 Deploy: <button onclick="window.open('https://netflix-clone-react-red-three.vercel.app', '_blank')">Netflix Clone</button>
 
 ## 🖼 Screenshots do projeto
 
