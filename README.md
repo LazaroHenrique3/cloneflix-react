@@ -1,8 +1,8 @@
 # Netflix Clone
 
-Projeto frontend React consumindo a API do TMDB, projeto concluído conforme a videoaula do canal do youtube do Bonieky Lacerda.
+Projeto frontend React consumindo a API do TMDB, projeto concluído conforme a videoaula do canal do youtube do **Bonieky Lacerda**.
 
-## 👀 Deploy: <a href="https://cloneflix-react.vercel.app">Netflix Clone</a> 
+## 👀 Ver deploy! 👉 <a href="https://cloneflix-react.vercel.app">Netflix Clone</a> 
 
 ## 🖼 Screenshots do projeto
 
